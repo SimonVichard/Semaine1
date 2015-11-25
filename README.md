@@ -26,7 +26,7 @@ environ 3ans et demi)
 -Contrat de professionalisation "Equipier de vente" (obtention Certificat de
 Qualification Professionnelle)
 
-## Pourquoi je suis sur Simplonline
+## Pourquoi je suis sur Simplonline!
 
 *Pour apprendre les différents langages de programmation
 *Pour acquérir un maximum de compétences dans le code
